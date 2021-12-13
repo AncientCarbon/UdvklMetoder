@@ -1,2 +1,6 @@
 # Project exclude paths
 /out/
+src/.idea/runConfigurations.xml
+src/.idea/misc.xml
+src/.idea/modules.xml
+src/.idea/vcs.xml
